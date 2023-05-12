@@ -5,7 +5,7 @@
 
 Dataset - [Databel Customer Churn](/kaggle/databel-telecom-customer-churn-dataset)
 
-In order to help them , I provide Databel with insights and conclusions; with which they would make data-driven decisions towards retain as many customers as possible
+In order to help them , I provide Databel with insights and conclusions; with which they would make data-driven decisions towards retaining as many customers as possible
 
 >### <span style="">Table of Contents</span>
 
